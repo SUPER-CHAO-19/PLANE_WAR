@@ -1,0 +1,1 @@
+pyinstaller -F -w -i plane.ico main.py -p bullet.py -p enemy.py -p myplane.py -p supply.py
